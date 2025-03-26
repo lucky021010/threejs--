@@ -1,4 +1,5 @@
-# React + Vite
+# 基于React + Vite + threejs开发的珍珠耳环的少女
+模型搭建使用blender
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
