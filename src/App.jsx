@@ -47,6 +47,9 @@ function App() {
     const light3 = new THREE.DirectionalLight(0xffffff, 2);
     light3.position.set(-15, -5, -10);
     scene.add(light3);
+    const light4 = new THREE.DirectionalLight(0xffffff, 5);
+    light4.position.set(500, 555, 920);
+    scene.add(light4);
 
 
     // 加载自定义模型
